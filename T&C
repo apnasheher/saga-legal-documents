@@ -1,0 +1,107 @@
+# SAGA Terms and Conditions
+
+_Last updated: January 4, 2025_
+
+## 1. Introduction
+
+These Terms and Conditions ("Terms") govern your access to and use of the SAGA mobile application and related services (collectively, the "Service") provided by ApnaGhar Solutions Private Limited ("ApnaGhar", "we", "us", or "our"). By creating an account, signing in, or otherwise using the Service, you agree to be bound by these Terms. If you do not agree, you may not access or use the Service.
+
+The Service connects landlords and tenants, enabling property listings, rental applications, occupant management, payment tracking, and the generation of rental receipts. It also provides optional analytics and notification features to support these workflows.
+
+## 2. Eligibility and Accounts
+
+- You must be at least 18 years old and legally capable of entering into contracts to use the Service.
+- You must provide accurate and complete information during registration and keep that information up to date.
+- Authentication is supported via Google Sign-In and phone number One-Time Password (OTP). You are responsible for safeguarding your Google account credentials and device, as well as preventing unauthorized access to SMS OTPs delivered to your phone. Any activity conducted through your authenticated sessions will be deemed authorized by you.
+- We may suspend or terminate your access if we detect fraudulent behaviour, policy violations, or security risks.
+
+## 3. Roles and Responsibilities
+
+### 3.1 Landlords
+
+Landlords can list properties, upload images, set rental terms, manage tenant rosters, track rent receipts, and download PDF records. You are solely responsible for ensuring the accuracy of property information, compliance with applicable housing laws, and maintaining any licenses required to lease property.
+
+### 3.2 Tenants
+
+Tenants can browse listings, submit applications, communicate with landlords, and record rent payments. Tenants must provide truthful information in applications and honour the rental commitments they agree to outside the Service.
+
+## 4. Property Listings and Content
+
+- You may upload descriptions, pricing, availability, photos, and other content (collectively, "Content"). You retain ownership of your Content while granting ApnaGhar a worldwide, non-exclusive, royalty-free licence to host, store, display, and process it as needed to provide the Service.
+- You represent that your Content does not infringe third-party rights, violate law, or include malicious code. We may remove Content that we believe violates these Terms or applicable laws.
+- The Service may automatically record metadata such as timestamps, location information based on city detection, and landlord identifiers to support search and compliance features.
+
+## 5. Rent Management and Receipts
+
+- The Service allows manual tracking of rent payments and the generation of PDF rent receipts. PDF files are stored locally on your device and opened through compatible viewers. You are responsible for validating the accuracy of receipts before sharing them.
+- The Service does not process monetary transactions. Any payments occur outside the platform and are governed by your agreements with other users or financial institutions.
+
+## 6. Location Features
+
+- The app may request permission to access your location to suggest city-specific listings or streamline onboarding. Location detection is limited to coarse city or region inference; it does not track continuous GPS history.
+- You can disable location permissions at any time, but doing so may limit certain personalised experiences.
+
+## 7. Analytics and Communication
+
+- We log anonymised usage analytics (such as screen views and button interactions) to improve the Service.
+- We may send in-app or email notifications related to account activity, policy updates, or service improvements. You can manage notification preferences within your device settings where applicable.
+
+## 8. Data Security and Session Management
+
+- Signed-in sessions use encrypted storage on your device to protect tokens, identifiers, and linked phone numbers. Even with these safeguards, you remain responsible for protecting your device with passcodes or biometric locks and promptly reporting suspected compromise.
+- We implement administrative, technical, and physical safeguards to protect data stored in our cloud infrastructure, including Firestore databases and Firebase Storage. However, no system is perfectly secure, and we cannot guarantee absolute protection.
+
+## 9. Prohibited Conduct
+
+You agree not to:
+
+1. Use the Service for unlawful, deceptive, or abusive purposes.
+2. Attempt to access, probe, or scan systems without authorization.
+3. Upload malware or engage in activity that interferes with the Service.
+4. Harvest or misuse personal data of other users.
+5. Misrepresent your affiliation with any person or entity.
+6. Bypass or disable security features, including OTP/Google authentication safeguards.
+
+## 10. Intellectual Property
+
+The Service, including its user interface, trademarks, logos, and software code, is owned by ApnaGhar or our licensors and protected by intellectual property laws. Except for the limited rights expressly granted here, no licence is granted to you.
+
+## 11. Third-Party Services
+
+The Service integrates with Google Sign-In, Firebase Authentication, Firestore, Firebase Storage, and other Google Cloud services. Use of these services may be subject to Google’s terms in addition to these Terms.
+
+## 12. Disclaimers
+
+- The Service is provided on an "as is" and "as available" basis without warranties of any kind, whether express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement.
+- We do not warrant that the Service will be uninterrupted, error-free, secure, or meet your expectations. Maintenance, updates, or network issues may cause temporary disruptions.
+- We do not endorse, guarantee, or assume responsibility for the conduct of any user or the accuracy of user-provided Content.
+
+## 13. Limitation of Liability
+
+To the maximum extent permitted by law, ApnaGhar and its affiliates shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or loss of profits, revenues, data, or goodwill arising from your use of the Service. Our aggregate liability for any claim shall not exceed the greater of (a) the amount you paid us for the Service in the twelve months prior to the claim or (b) INR 10,000.
+
+## 14. Indemnification
+
+You agree to indemnify, defend, and hold harmless ApnaGhar, its directors, officers, employees, and agents from any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising from or related to your use of the Service, your Content, or your violation of these Terms or applicable law.
+
+## 15. Suspension and Termination
+
+We may suspend or terminate access to the Service if we reasonably believe you have violated these Terms, pose a risk to the Service or other users, or if required by law or third-party partner obligations. Upon termination, your right to use the Service ceases immediately, but certain provisions (including Sections 4, 10, 13, and 14) will survive.
+
+## 16. Changes to the Service and Terms
+
+We may update or discontinue features (including analytics, location detection, or PDF generation) at any time. We may also modify these Terms by posting an updated version with a new effective date. Material changes will be communicated through the app or via email. Continued use after the effective date constitutes acceptance of the revised Terms.
+
+## 17. Governing Law and Dispute Resolution
+
+These Terms are governed by the laws of India without regard to conflict-of-laws principles. You agree to resolve disputes through amicable negotiation with ApnaGhar. If unresolved, disputes shall be subject to the exclusive jurisdiction of the courts located in Bengaluru, Karnataka, India.
+
+## 18. Contact Us
+
+For questions about these Terms, contact us at:
+
+**ApnaGhar Solutions Private Limited**  
+Legal Department  
+Email: legal@apnaghar.co  
+Address: 91 Springboard, Koramangala, Bengaluru, Karnataka 560034, India
+
