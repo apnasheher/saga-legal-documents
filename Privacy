@@ -1,0 +1,84 @@
+# SAGA Privacy Policy
+
+_Last updated: January 4, 2025_
+
+ApnaGhar Solutions Private Limited ("ApnaGhar", "we", "us", or "our") respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard personal information when you use the SAGA mobile application and related services (collectively, the "Service"). By accessing or using the Service, you agree to this Policy. If you do not agree, please do not use the Service.
+
+## 1. Information We Collect
+
+### 1.1 Account and Profile Data
+- **Authentication credentials:** Phone numbers used for OTP verification, Google account identifiers, and Firebase user IDs.
+- **Profile details:** Display name, email address, role (landlord or tenant), profile photo URL, and metadata captured during onboarding.
+
+### 1.2 Property and Tenant Records
+- **Property information:** Property titles, descriptions, addresses, city or locality, rent amounts, amenities, images, and availability.
+- **Tenant information:** Tenant names, contact details, rent status, and other tenancy-related notes entered by landlords.
+
+### 1.3 Usage Information
+- **Analytics events:** Screen views, feature usage, and button taps recorded through Firebase Analytics to understand and improve user experience.
+- **Device and technical data:** Device model, operating system, and crash logs collected via the underlying mobile platform.
+
+### 1.4 Location Data
+- When you grant permission, we collect approximate location (city-level) to pre-fill search filters or tailor listings. We do not collect continuous GPS tracks.
+
+### 1.5 Files and Documents
+- **PDF rent receipts:** When you generate a receipt, we create a PDF file stored locally on your device. We do not automatically upload these files to our servers.
+
+## 2. How We Use Information
+We process personal information to:
+1. Authenticate users via phone OTP and Google Sign-In.
+2. Create and manage landlord and tenant profiles in Firestore.
+3. Display property listings, tenancy details, and rent tracking dashboards.
+4. Generate PDF rent receipts for record keeping.
+5. Provide location-aware recommendations and defaults.
+6. Securely store session data using encrypted shared preferences on your device.
+7. Monitor usage trends and feature adoption via analytics to enhance the Service.
+8. Communicate with you about account activity, service updates, and support inquiries.
+
+## 3. Legal Bases for Processing
+We rely on one or more of the following legal bases:
+- Performance of a contract (providing the Service you request).
+- Compliance with legal obligations (responding to lawful requests, tax or regulatory requirements).
+- Legitimate interests (improving and securing the Service, preventing fraud).
+- Consent (when you grant permissions such as location access or marketing communications).
+
+## 4. How We Share Information
+We may share information with:
+- **Service providers:** Google Firebase (Authentication, Firestore, Storage, Analytics), cloud hosting vendors, and support tools who process data on our behalf under contractual safeguards.
+- **Other users:** Landlords and tenants may see each other’s shared property or tenancy data as part of the Service functionality.
+- **Authorities or advisors:** When required by law or to protect our rights, users, or the public.
+- **Successors:** In connection with a merger, acquisition, or sale of assets, subject to the protections of this Policy.
+
+We do not sell personal information to third parties.
+
+## 5. Data Retention
+We retain account, property, and tenancy records for as long as you maintain an account or as needed to provide the Service. We may retain anonymised analytics data for longer periods. When you request deletion, we delete or anonymise your personal information unless retention is required by law.
+
+## 6. Data Security
+- Authentication tokens, phone numbers, and session identifiers are stored locally using Android’s Encrypted Shared Preferences.
+- Cloud data is protected by access controls, encryption in transit, and Firebase security rules.
+- Despite our safeguards, no system is perfectly secure. Please protect your device with passcodes or biometric locks and notify us immediately of suspected unauthorised access.
+
+## 7. Your Choices and Rights
+- **Profile updates:** You can update profile details through the app or by contacting support.
+- **Location access:** You may disable location permissions in your device settings; however, some features may become limited.
+- **Analytics:** Analytics collection is integral to operating and improving the Service. Where legally required, we will provide consent or opt-out mechanisms.
+- **Data access and deletion:** You may request a copy of your personal information or deletion of your account by emailing privacy@apnaghar.co. We will respond in accordance with applicable law.
+
+## 8. Children’s Privacy
+The Service is not directed to children under 18. We do not knowingly collect personal information from children under 18. If we learn that a child has provided personal information, we will delete it promptly.
+
+## 9. International Data Transfers
+Your information may be stored and processed in India or other countries where we or our service providers maintain facilities. We take steps to ensure appropriate safeguards for cross-border transfers consistent with applicable law.
+
+## 10. Changes to This Policy
+We may update this Privacy Policy from time to time. We will post the updated Policy with a new effective date in the app or via email. Continued use of the Service after changes become effective means you accept the revised Policy.
+
+## 11. Contact Us
+If you have questions or concerns about this Policy or our data practices, contact us at:
+
+**ApnaGhar Solutions Private Limited**  
+Privacy Office  
+Email: privacy@apnaghar.co  
+Address: 91 Springboard, Koramangala, Bengaluru, Karnataka 560034, India
+
